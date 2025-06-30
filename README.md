@@ -7,7 +7,8 @@ For now, go to the [releases](https://github.com/benmordecai/BarbellCalc/release
 
 ## Features
 - Choice between two-sided calculations or one-sided (For exercises where one side of the bar is loaded like landmine rows).
-- Choice between different bars to load. 
+- Choice between different bars to load.
+- Ability to load "No Bar" for machines.
 - Customize your inventory of plates and bars. 
 - Plates can be color coded to match your collection
 - Pounds are default units, but kilograms are supported. Conversions occur automatically so it is recommended that you delete inventory of pound-denominated equipment and create new inventory with kg if applicable.
