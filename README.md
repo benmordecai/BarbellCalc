@@ -16,6 +16,8 @@ For now, go to the [releases](https://github.com/benmordecai/BarbellCalc/release
 - Smart increment/decrement
 
 ## Screenshots
-Main Screen: ![Main Screen](screenshots/1.png)
-Reverse Screen: ![Reverse Screen](screenshots/2.png)
-Inventory Screen: ![Inventory Screen](screenshots/3.png)
+<p align="center">
+<img src="screenshots/1.png" alt="Main" width="300" /> 
+<img src="screenshots/2.png" alt="Reverse" width="300" />
+<img src="screenshots/3.png" alt="Inventory" width="300" />
+</p>
