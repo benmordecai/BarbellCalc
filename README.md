@@ -6,7 +6,7 @@
 For now, go to the [releases](https://github.com/benmordecai/BarbellCalc/releases/) page. Might have a Play Store or Apple Store release eventually, but for now it is only available on the releases page. 
 
 ## Features
-- No adds, no trackers, works offline, all open source. GPL license.
+- No ads, no trackers, works offline, all open source. GPL license.
 - Choice between two-sided calculations or one-sided (For exercises where one side of the bar is loaded like landmine rows).
 - Choice between different bars to load.
 - Ability to load "No Bar" for machines.
